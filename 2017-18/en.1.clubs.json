@@ -1,5 +1,5 @@
 {
-  "name": "English Premier League 2017/18",
+  "name": "English Premier League 2018/19",
   "clubs": [
     {
       "key": "chelsea",
@@ -47,9 +47,9 @@
       "code": "LIV"
     },
     {
-      "key": "westbrom",
-      "name": "West Bromwich Albion",
-      "code": "WBA"
+      "key": "wolves",
+      "name": "Wolverhampton Wanderers",
+      "code": "WOL"
     },
     {
       "key": "newcastle",
@@ -57,9 +57,9 @@
       "code": "NEW"
     },
     {
-      "key": "stoke",
-      "name": "Stoke City",
-      "code": "STK"
+      "key": "cardiff",
+      "name": "Cardiff City",
+      "code": "CAR"
     },
     {
       "key": "southampton",
@@ -97,9 +97,9 @@
       "code": null
     },
     {
-      "key": "swansea",
-      "name": "Swansea",
-      "code": "SWA"
+      "key": "fulham",
+      "name": "Fulham",
+      "code": "FUL"
     }
   ]
 }
